@@ -26,17 +26,20 @@ const ChineseDialectOptions = () => {
     <>
       <option value="">普通话</option>
       <option value="上海话">上海话</option>
+      <option value="北京话">北京话</option>
       <option value="四川话">四川话</option>
       <option value="重庆话">重庆话</option>
       <option value="天津话">天津话</option>
       <option value="东北话">东北话</option>
       <option value="河南话">河南话</option>
       <option value="陕西话">陕西话</option>
+      <option value="山东话">山东话</option>
       <option value="山西话">山西话</option>
       <option value="湖南话">湖南话</option>
       <option value="湖北话">湖北话</option>
       <option value="粤语">粤语</option>
       <option value="闽南语">闽南语</option>
+      <option value="文言文">文言文</option>
     </>
   );
 };

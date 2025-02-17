@@ -9,7 +9,9 @@
 - 支持快捷键来翻译选中的文本。
 - 支持翻译任何可编辑区域的文本，如输入框、文本框和评论区（如 Facebook、YouTube、X、Reddit 和 Gmail）。
 - 支持通过代理访问 AI 模型，并允许自定义请求头。
-- 支持 20 多种语言。
+- 支持全世界 20 多种语言。
+- **对的，你没有看错它甚至还支持将任何文字翻译成风趣幽默的中国方言和文言文！**  
+  (注意，如果想让方言翻译有更好的效果，请尽量选择具备推理能力的模型，比如 DeepSeek 的 deepseek-reasoner 或者 Gemini 的 gemini-2.0-flash-thinking-exp-01-21)  
 
 ## 安装
 前往 [AI Translation Bot](https://chromewebstore.google.com/detail/chatgpt-translation-bot/fglemdfemikhijpgojdobdgplbcfomdf) 并为您的浏览器安装扩展。

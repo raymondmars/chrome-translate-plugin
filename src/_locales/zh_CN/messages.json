@@ -66,10 +66,10 @@
     "message": "用于翻译网页上选中的文本"
   },
   "editableTransDesc": {
-    "message": "用于翻译输入字段、文本区域等中的文本，例如 Facebook、YouTube、X、Reddit 评论区和 Gmail 文本输入区。"
+    "message": "可以翻译各大平台的输入字段和文本区域内容，例如 Facebook、YouTube、X、Reddit 的评论区，以及 Gmail 的文本输入框。"
   },
   "editableTransUseTip": {
-    "message": "只需用鼠标或快捷键（macOS 为 Cmd + A，Windows 为 Ctrl + A）选中文本，然后使用在这里配置的快捷键翻译您输入的文本。"
+    "message": "只需用鼠标或使用快捷键（macOS 为 Cmd + A，Windows 为 Ctrl + A）选中需要翻译的文本，然后使用在此处配置的快捷键，即可完成翻译。"
   },
   "advancedFeatures": {
     "message": "高级功能"
